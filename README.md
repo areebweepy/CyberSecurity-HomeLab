@@ -95,7 +95,7 @@ Highly recommended for anyone building a homelab using pfSense and Proxmox.
 
 ---
 
-## Lab Topology
+## 🗺️ Lab Topology
 
 ![Lab Network Diagram](Network-topology.png)
 
